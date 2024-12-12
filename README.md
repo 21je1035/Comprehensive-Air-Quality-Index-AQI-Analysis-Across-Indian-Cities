@@ -1,4 +1,5 @@
 # Comprehensive-Air-Quality-Index-AQI-Analysis-Across-Indian-Cities
+Dataset source:- https://www.kaggle.com/sudalairajkumar/indian-startup-funding/
 This project delves into the comprehensive analysis of the Air Quality Index (AQI) in Amravati, Maharashtra, India that was taken from 24/11/2017 to 01/07/2020. Employing statistical methods, we scrutinize the dataset to extract meaningful insights. The findings are presented in a detailed report.
 
 To enhance accessibility and interactivity, a simple yet effective interactive dashboard is developed using Flask. The dashboard encapsulates key discoveries, providing a user-friendly interface to explore essential AQI trends.
